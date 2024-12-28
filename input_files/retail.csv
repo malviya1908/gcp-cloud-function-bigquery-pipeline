@@ -1,0 +1,101 @@
+Transaction_ID,Customer_ID,Product,Category,Quantity,Price,Total,Date,Payment_Method
+1,25,Science Fiction,Books,4,455.69,1822.77,2024-07-05,Gift Card
+2,30,Refrigerator,Home Appliances,3,312.58,937.73,2024-09-13,Cash
+3,4,Headphones,Electronics,2,260.96,521.92,2024-04-20,PayPal
+4,23,Sweater,Clothing,4,45.8,183.19,2024-12-27,Credit Card
+5,37,Jeans,Clothing,3,359.1,1077.31,2024-12-15,Gift Card
+6,2,Phone,Electronics,5,364.53,1822.67,2024-06-17,Credit Card
+7,10,Novel,Books,3,282.81,848.44,2024-11-25,Credit Card
+8,16,Novel,Books,4,310.1,1240.38,2024-06-17,Gift Card
+9,13,Tennis Racket,Sports,3,302.77,908.3,2024-05-12,Credit Card
+10,18,Yoga Mat,Sports,1,179.88,179.88,2024-09-05,Gift Card
+11,17,Microwave,Home Appliances,3,188.61,565.84,2024-11-01,Gift Card
+12,4,Tennis Racket,Sports,1,392.5,392.5,2024-01-09,Cash
+13,33,T-shirt,Clothing,4,302.26,1209.03,2024-01-06,Gift Card
+14,49,Sweater,Clothing,1,404.97,404.97,2024-08-24,Cash
+15,28,Fantasy,Books,2,100.46,200.92,2024-06-10,Cash
+16,5,Smartwatch,Electronics,4,6.51,26.04,2024-07-06,Cash
+17,21,Novel,Books,1,381.74,381.74,2024-07-29,Debit Card
+18,1,Jeans,Clothing,3,134.2,402.59,2024-05-02,PayPal
+19,23,Basketball,Sports,3,179.69,539.07,2024-11-30,PayPal
+20,34,Science Fiction,Books,1,182.41,182.41,2024-08-25,Cash
+21,44,Fantasy,Books,3,320.63,961.89,2024-06-11,Cash
+22,27,Biography,Books,4,359.69,1438.76,2024-08-03,PayPal
+23,10,Jeans,Clothing,5,159.76,798.81,2024-08-26,Cash
+24,15,Vacuum Cleaner,Home Appliances,2,385.88,771.77,2024-08-28,Debit Card
+25,36,Microwave,Home Appliances,3,437.16,1311.48,2024-01-18,PayPal
+26,46,Refrigerator,Home Appliances,4,460.02,1840.1,2024-08-09,Cash
+27,10,Headphones,Electronics,5,149.04,745.2,2024-12-19,Credit Card
+28,29,Smartwatch,Electronics,2,228.8,457.6,2024-09-06,Gift Card
+29,42,Basketball,Sports,4,446.12,1784.49,2024-07-15,Gift Card
+30,31,T-shirt,Clothing,4,180.63,722.51,2024-03-19,Gift Card
+31,36,Headphones,Electronics,2,379.6,759.2,2024-08-02,Debit Card
+32,11,Microwave,Home Appliances,3,158.63,475.89,2024-02-14,Credit Card
+33,29,Tennis Racket,Sports,1,411.05,411.05,2024-11-20,Gift Card
+34,11,Jacket,Clothing,3,106.15,318.46,2024-11-23,Debit Card
+35,2,Washing Machine,Home Appliances,2,325.46,650.92,2024-10-13,Gift Card
+36,35,T-shirt,Clothing,3,138.51,415.54,2024-10-18,PayPal
+37,41,Smartwatch,Electronics,1,326.49,326.49,2024-08-31,PayPal
+38,18,Smartwatch,Electronics,1,474.14,474.14,2024-01-18,PayPal
+39,45,Laptop,Electronics,2,223.42,446.84,2024-04-13,Cash
+40,7,Vacuum Cleaner,Home Appliances,2,33.94,67.89,2024-12-21,Gift Card
+41,26,Sweater,Clothing,3,33.44,100.33,2024-02-22,Credit Card
+42,35,Jeans,Clothing,1,51.12,51.12,2024-02-07,Gift Card
+43,19,Refrigerator,Home Appliances,3,170.49,511.47,2024-01-24,Cash
+44,24,Yoga Mat,Sports,4,8.57,34.28,2024-07-13,PayPal
+45,33,Headphones,Electronics,4,52.13,208.52,2024-06-22,Credit Card
+46,1,Yoga Mat,Sports,5,427.07,2135.34,2024-08-02,Credit Card
+47,45,Washing Machine,Home Appliances,3,230.73,692.18,2024-02-10,Cash
+48,38,Smartwatch,Electronics,1,189.03,189.03,2024-09-18,PayPal
+49,17,Biography,Books,1,47.1,47.1,2024-11-08,Cash
+50,49,Science Fiction,Books,5,418.37,2091.87,2024-11-16,PayPal
+51,8,Washing Machine,Home Appliances,1,165.03,165.03,2024-07-23,Gift Card
+52,36,Basketball,Sports,5,261.52,1307.6,2024-04-16,Credit Card
+53,45,Fantasy,Books,1,336.02,336.02,2024-10-17,Gift Card
+54,35,Washing Machine,Home Appliances,1,280.27,280.27,2024-08-04,Cash
+55,21,Basketball,Sports,1,194.72,194.72,2024-12-19,Gift Card
+56,28,Sweater,Clothing,2,449.68,899.37,2024-10-26,Cash
+57,44,Jacket,Clothing,5,204.25,1021.26,2024-07-18,Credit Card
+58,12,Laptop,Electronics,3,207.43,622.3,2024-10-03,Gift Card
+59,44,Microwave,Home Appliances,1,150.43,150.43,2024-05-08,Credit Card
+60,48,Football,Sports,5,239.03,1195.14,2024-05-05,Debit Card
+61,2,Jeans,Clothing,4,38.24,152.94,2024-04-19,PayPal
+62,31,Fantasy,Books,4,173.87,695.46,2024-08-12,Gift Card
+63,27,Biography,Books,1,286.11,286.11,2024-05-07,Gift Card
+64,1,Jeans,Clothing,2,158.35,316.7,2024-10-17,Gift Card
+65,9,Tennis Racket,Sports,3,43.02,129.06,2024-11-14,Gift Card
+66,40,Football,Sports,3,147.74,443.21,2024-06-02,Credit Card
+67,31,Basketball,Sports,1,7.47,7.47,2024-11-26,Gift Card
+68,43,Biography,Books,1,246.24,246.24,2024-09-06,Cash
+69,24,Laptop,Electronics,2,271.7,543.39,2024-07-17,Debit Card
+70,18,T-shirt,Clothing,5,453.24,2266.19,2024-08-30,Cash
+71,23,Laptop,Electronics,3,456.21,1368.63,2024-03-17,Gift Card
+72,8,Refrigerator,Home Appliances,2,274.87,549.74,2024-01-24,Debit Card
+73,34,Science Fiction,Books,1,19.95,19.95,2024-10-21,PayPal
+74,2,Jeans,Clothing,3,193.24,579.71,2024-10-19,Gift Card
+75,43,Basketball,Sports,4,256.48,1025.94,2024-12-12,Credit Card
+76,47,Fantasy,Books,3,337.24,1011.73,2024-07-02,PayPal
+77,2,Refrigerator,Home Appliances,3,296.47,889.41,2024-07-16,Gift Card
+78,41,Microwave,Home Appliances,2,319.11,638.22,2024-05-28,PayPal
+79,38,Sweater,Clothing,4,385.2,1540.79,2024-08-31,Cash
+80,4,Fantasy,Books,5,403.75,2018.75,2024-02-14,Credit Card
+81,8,Tennis Racket,Sports,5,370.62,1853.12,2024-04-01,Cash
+82,43,Football,Sports,5,25.05,125.24,2024-08-29,Gift Card
+83,46,Refrigerator,Home Appliances,4,111.83,447.3,2024-12-05,Debit Card
+84,46,Sweater,Clothing,3,86.96,260.88,2024-03-31,PayPal
+85,32,Microwave,Home Appliances,3,106.68,320.03,2024-10-27,Cash
+86,17,Fantasy,Books,5,350.07,1750.33,2024-03-02,Debit Card
+87,21,Tennis Racket,Sports,3,247.1,741.29,2024-03-22,Debit Card
+88,15,Refrigerator,Home Appliances,2,183.06,366.12,2024-09-09,Gift Card
+89,27,Washing Machine,Home Appliances,4,167.13,668.53,2024-04-06,Debit Card
+90,43,Fantasy,Books,1,60.69,60.69,2024-08-15,Cash
+91,24,Phone,Electronics,4,419.17,1676.67,2024-10-03,Gift Card
+92,38,Yoga Mat,Sports,3,435.21,1305.62,2024-04-20,Gift Card
+93,34,Novel,Books,3,351.56,1054.67,2024-02-16,Credit Card
+94,12,Football,Sports,4,290.98,1163.92,2024-10-14,Cash
+95,28,Football,Sports,2,142.48,284.95,2024-08-28,Credit Card
+96,8,Yoga Mat,Sports,5,168.37,841.83,2024-05-29,Credit Card
+97,12,Jacket,Clothing,5,156.23,781.17,2024-10-07,Debit Card
+98,4,Refrigerator,Home Appliances,1,243.91,243.91,2024-03-12,Cash
+99,44,Tennis Racket,Sports,1,448.93,448.93,2024-03-08,PayPal
+100,3,Football,Sports,4,340.62,1362.48,2024-03-28,Debit Card
