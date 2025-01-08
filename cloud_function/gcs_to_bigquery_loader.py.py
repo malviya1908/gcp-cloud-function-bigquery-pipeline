@@ -20,7 +20,7 @@ def load_to_bigquery(event, context):
 
         # Define BigQuery dataset and table details
         print("Setting BigQuery details...")
-        dataset_id = "synthetic-nova-438808-k6.retail_dataset"  # BigQuery dataset
+        dataset_id = "project_id.dataset.id"  # BigQuery dataset
 
         # Determine the table name and expected file path based on GCS location
         today_date = datetime.today().strftime("%Y-%m-%d")
